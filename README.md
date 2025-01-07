@@ -1,8 +1,6 @@
 # Bonjour moi c'est Airfiel 🫡
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sn1675&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![snake gif](https://github.com/sn1675/sn1675/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 
 
