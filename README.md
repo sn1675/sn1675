@@ -12,9 +12,9 @@ Vous pouvez aller visiter mon site web (pas encore fini) où je présente un peu
 Tous les projets que vous pouvez trouver sur mon profil ou sur mon site web sont open source ! 💜
 
 I'm a French student curently in 3rd yeard of university. <br>
-I enjoy create useless projects. <br>
+I enjoy to create useless projects. <br>
 You can take a look at my webside (not finished yet) where i expose my projects without high importance <br>
-Every projects that you you can find on my profile or on my website are open source ! 💜
+Every projects that you can find on my profile or on my website are open source ! 💜
 
 ### 
 
@@ -32,12 +32,12 @@ Every projects that you you can find on my profile or on my website are open sou
 
 ### 
 
-<p>N'ézitez pas a venir me parler sur mes réseau, que ce soit pour faire connaisance ou juste parler de code, je suis a votre disposition ! 👌</p>
+<p>N'hésitez pas a venir me parler sur mes réseau, que ce soit pour faire connaisance ou juste parler de code, je suis a votre disposition ! 👌</p>
 <p>Do not hesitate to come discuss on my social media, if it's to introduce ourselves or to talk about code I'm here for you ! 👌</p>
 
 ###
 
-<h2 align="left">Les langages que j'utilise / Langages I use 🖥️</h2>
+<h2 align="left">Les langages que j'utilise / Languages I use 🖥️</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -58,4 +58,5 @@ Every projects that you you can find on my profile or on my website are open sou
 ### 
 
 <p>Et bien d'autres langages...</p>
+<p>And many orther languages...</p>
 
