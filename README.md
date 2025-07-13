@@ -13,7 +13,7 @@ Tous les projets que vous pouvez trouver sur mon profil ou sur mon site web sont
 
 I'm a French student curently in 3rd yeard of university. <br>
 I enjoy create useless projects. <br>
-You can take a look at my webside (he is not finished yet) where i expose my projects without high importance <br>
+You can take a look at my webside (not finished yet) where i expose my projects without high importance <br>
 Every projects that you you can find on my profile or on my website are open source ! 💜
 
 ### 
