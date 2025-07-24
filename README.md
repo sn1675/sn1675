@@ -8,12 +8,12 @@
 
 Je suis un étudiant en L3 informatique Français. <br>
 J'adore faire des projets complètement inutiles. <br>
-Vous pouvez aller visiter mon site web : http://wwWw.portfolio.fr (pas encore fini) où je présente un peu tous ces projets sans grande importance. <br>
+Vous pouvez aller visiter mon site web : http://www.portfolio.fr (pas encore fini) où je présente un peu tous ces projets sans grande importance. <br>
 Tous les projets que vous pouvez trouver sur mon profil ou sur mon site web sont open source ! 💜
 
 I'm a French student curently in 3rd yeard of university. <br>
 I enjoy to create useless projects. <br>
-You can take a look at my webside : http://wwWw.portfolio.fr (not finished yet) where i expose my projects without high importance <br>
+You can take a look at my webside : http://www.portfolio.fr (not finished yet) where i expose my projects without high importance <br>
 Every projects that you can find on my profile or on my website are open source ! 💜
 
 ### 
