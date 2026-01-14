@@ -1,24 +1,19 @@
-# Bonjour moi c'est Airfiel / Hi my name is Airfiel 🫡
+# Hi my name is Airfiel 🫡
 
 ![snake gif](https://github.com/sn1675/sn1675/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 
 
-<h2 align="left">À propos / About 🔭</h2>
+<h2 align="left">About 🔭</h2>
 
-Je suis un étudiant en L3 informatique Français. <br>
-J'adore faire des projets complètement inutiles. <br>
-Vous pouvez aller visiter mon site web : http://www.portfolio-nc.fr (pas encore fini) où je présente un peu tous ces projets sans grande importance. <br>
-Tous les projets que vous pouvez trouver sur mon profil ou sur mon site web sont open source ! 💜
-
-I'm a French student curently in 3rd yeard of university. <br>
+I'm a French student an IT undergraduate. <br>
 I enjoy to create useless projects. <br>
-You can take a look at my webside : http://www.portfolio-nc.fr (not finished yet) where i expose my projects without high importance <br>
+You can take a look at my webside : http://www.portfolio-nc.fr (not finished yet) where I expose my little useless projects. <br>
 Every projects that you can find on my profile or on my website are open source ! 💜
 
 ### 
 
-<h2 align="left">Mes contacts / My contacts 🌐</h2>
+<h2 align="left">My contacts 🌐</h2>
 
 <img align="right" height="150" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
 
@@ -32,12 +27,11 @@ Every projects that you can find on my profile or on my website are open source 
 
 ### 
 
-<p>N'hésitez pas a venir me parler sur mes réseau, que ce soit pour faire connaisance ou juste parler de code, je suis a votre disposition ! 👌</p>
-<p>Do not hesitate to come discuss on my social media, if it's to introduce ourselves or to talk about code I'm here for you ! 👌</p>
+<p>You may come and discuss on my socials, whether introduce ourselves or to talk about code I'm here for you ! 👌</p>
 
 ###
 
-<h2 align="left">Les langages que j'utilise / Languages I use 🖥️</h2>
+<h2 align="left">Languages I use 🖥️</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -57,6 +51,5 @@ Every projects that you can find on my profile or on my website are open source 
 
 ### 
 
-<p>Et bien d'autres langages...</p>
-<p>And many orther languages...</p>
+<p>And many other languages...</p>
 
