@@ -8,7 +8,7 @@
 
 I'm a French student an IT undergraduate. <br>
 I enjoy to create useless projects. <br>
-You can take a look at my webside : http://www.portfolio-nc.fr (not finished yet) where I expose my little useless projects. <br>
+You can take a look at my webside : https://www.portfolio-nc.fr (not finished yet) where I expose my little useless projects. <br>
 Every projects that you can find on my profile or on my website are open source ! 💜
 
 ### 
